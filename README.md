@@ -10,4 +10,4 @@ Página de apresentação publicada com o GitHub Pages.
 - CSS
 
 ## Autor
-Maykon Dougllas Reis Fortes Saldanha
+Maykon Dougllas Reis Fortes Saldanha - *ServiceNow Developer*
